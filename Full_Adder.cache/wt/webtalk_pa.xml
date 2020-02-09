@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+<!--The data in this file is primarily intended for consumption by Xilinx tools.
+The structure and the elements are likely to change over the next few releases.
+This means code written to parse this file will need to be revisited each subsequent release.-->
+<application name="pa" timeStamp="Fri Jan 10 13:46:35 2020">
+<section name="Project Information" visible="false">
+<property name="ProjectID" value="dee81ab8e6404725a69b0832825ce2a9" type="ProjectID"/>
+<property name="ProjectIteration" value="1" type="ProjectIteration"/>
+</section>
+<section name="PlanAhead Usage" visible="true">
+<item name="Project Data">
+<property name="SrcSetCount" value="1" type="SrcSetCount"/>
+<property name="ConstraintSetCount" value="1" type="ConstraintSetCount"/>
+<property name="DesignMode" value="RTL" type="DesignMode"/>
+<property name="SynthesisStrategy" value="Vivado Synthesis Defaults" type="SynthesisStrategy"/>
+<property name="ImplStrategy" value="Vivado Implementation Defaults" type="ImplStrategy"/>
+</item>
+<item name="Java Command Handlers">
+<property name="AddSources" value="4" type="JavaHandler"/>
+<property name="HelpAbout" value="1" type="JavaHandler"/>
+<property name="NewProject" value="1" type="JavaHandler"/>
+<property name="SaveFileProxyHandler" value="1" type="JavaHandler"/>
+<property name="SetSourceEnabled" value="3" type="JavaHandler"/>
+<property name="ShowView" value="4" type="JavaHandler"/>
+<property name="SimulationClose" value="1" type="JavaHandler"/>
+<property name="SimulationRun" value="9" type="JavaHandler"/>
+</item>
+<item name="Gui Resources Info">
+<property name="BACK,  Back" value="1" type="GuiResourceData"/>
+<property name="CANCEL, Cancel" value="1" type="GuiResourceData"/>
+<property name="FA.v, 102, 345" value="1" type="GuiResourceData"/>
+<property name="FA.v, 115, 324" value="1" type="GuiResourceData"/>
+<property name="FA.v, 122, 536" value="1" type="GuiResourceData"/>
+<property name="FA.v, 129, 428" value="1" type="GuiResourceData"/>
+<property name="FA.v, 131, 442" value="1" type="GuiResourceData"/>
+<property name="FA.v, 177, 525" value="1" type="GuiResourceData"/>
+<property name="FA.v, 188, 546" value="1" type="GuiResourceData"/>
+<property name="FA.v, 19, 534" value="1" type="GuiResourceData"/>
+<property name="FA.v, 196, 544" value="1" type="GuiResourceData"/>
+<property name="FA.v, 198, 543" value="1" type="GuiResourceData"/>
+<property name="FA.v, 200, 547" value="1" type="GuiResourceData"/>
+<property name="FA.v, 210, 544" value="1" type="GuiResourceData"/>
+<property name="FA.v, 211, 427" value="1" type="GuiResourceData"/>
+<property name="FA.v, 22, 502" value="1" type="GuiResourceData"/>
+<property name="FA.v, 233, 562" value="1" type="GuiResourceData"/>
+<property name="FA.v, 234, 553" value="1" type="GuiResourceData"/>
+<property name="FA.v, 247, 551" value="1" type="GuiResourceData"/>
+<property name="FA.v, 302, 539" value="1" type="GuiResourceData"/>
+<property name="FA.v, 328, 561" value="1" type="GuiResourceData"/>
+<property name="FA.v, 43, 332" value="1" type="GuiResourceData"/>
+<property name="FA.v, 49, 539" value="1" type="GuiResourceData"/>
+<property name="FA.v, 50, 515" value="1" type="GuiResourceData"/>
+<property name="FA.v, 51, 502" value="1" type="GuiResourceData"/>
+<property name="FA.v, 56, 325" value="1" type="GuiResourceData"/>
+<property name="FA.v, 66, 504" value="1" type="GuiResourceData"/>
+<property name="FA.v, 70, 553" value="1" type="GuiResourceData"/>
+<property name="FA.v, 89, 268" value="1" type="GuiResourceData"/>
+<property name="FA.v, 96, 388" value="1" type="GuiResourceData"/>
+<property name="FINISH, Finish" value="4" type="GuiResourceData"/>
+<property name="Full Adder.v, 112, 420" value="1" type="GuiResourceData"/>
+<property name="Full Adder.v, 113, 501" value="1" type="GuiResourceData"/>
+<property name="Full Adder.v, 118, 471" value="1" type="GuiResourceData"/>
+<property name="Full Adder.v, 123, 479" value="1" type="GuiResourceData"/>
+<property name="Full Adder.v, 123, 494" value="1" type="GuiResourceData"/>
+<property name="Full Adder.v, 136, 382" value="1" type="GuiResourceData"/>
+<property name="Full Adder.v, 142, 382" value="1" type="GuiResourceData"/>
+<property name="Full Adder.v, 185, 485" value="1" type="GuiResourceData"/>
+<property name="Full Adder.v, 196, 504" value="1" type="GuiResourceData"/>
+<property name="Full Adder.v, 219, 538" value="1" type="GuiResourceData"/>
+<property name="Full Adder.v, 232, 380" value="1" type="GuiResourceData"/>
+<property name="Full Adder.v, 25, 550" value="1" type="GuiResourceData"/>
+<property name="Full Adder.v, 260, 266" value="1" type="GuiResourceData"/>
+<property name="Full Adder.v, 261, 386" value="1" type="GuiResourceData"/>
+<property name="Full Adder.v, 263, 385" value="1" type="GuiResourceData"/>
+<property name="Full Adder.v, 269, 266" value="1" type="GuiResourceData"/>
+<property name="Full Adder.v, 28, 412" value="1" type="GuiResourceData"/>
+<property name="Full Adder.v, 29, 406" value="1" type="GuiResourceData"/>
+<property name="Full Adder.v, 32, 518" value="1" type="GuiResourceData"/>
+<property name="Full Adder.v, 55, 283" value="1" type="GuiResourceData"/>
+<property name="Full Adder.v, 72, 552" value="1" type="GuiResourceData"/>
+<property name="Full Adder.v, 76, 388" value="1" type="GuiResourceData"/>
+<property name="Full Adder.v, 81, 379" value="1" type="GuiResourceData"/>
+<property name="Full Adder.v, 84, 566" value="1" type="GuiResourceData"/>
+<property name="Full Adder.v, 87, 562" value="1" type="GuiResourceData"/>
+<property name="Full Adder.v, 89, 490" value="1" type="GuiResourceData"/>
+<property name="Full Adder.v, 93, 469" value="1" type="GuiResourceData"/>
+<property name="Full Adder.v, 94, 483" value="1" type="GuiResourceData"/>
+<property name="Full Adder.v, 98, 472" value="1" type="GuiResourceData"/>
+<property name="HA.v, 107, 455" value="1" type="GuiResourceData"/>
+<property name="HA.v, 107, 467" value="1" type="GuiResourceData"/>
+<property name="HA.v, 121, 379" value="1" type="GuiResourceData"/>
+<property name="HA.v, 130, 462" value="1" type="GuiResourceData"/>
+<property name="HA.v, 139, 463" value="1" type="GuiResourceData"/>
+<property name="HA.v, 174, 384" value="1" type="GuiResourceData"/>
+<property name="HA.v, 187, 376" value="1" type="GuiResourceData"/>
+<property name="HA.v, 259, 194" value="1" type="GuiResourceData"/>
+<property name="HA.v, 29, 412" value="1" type="GuiResourceData"/>
+<property name="HA.v, 73, 387" value="1" type="GuiResourceData"/>
+<property name="HA.v, 76, 389" value="1" type="GuiResourceData"/>
+<property name="HA.v, 78, 450" value="1" type="GuiResourceData"/>
+<property name="HA.v, 81, 467" value="1" type="GuiResourceData"/>
+<property name="HA.v, 84, 387" value="1" type="GuiResourceData"/>
+<property name="HA.v, 94, 471" value="1" type="GuiResourceData"/>
+<property name="HA.v, 95, 382" value="1" type="GuiResourceData"/>
+<property name="NEXT, Next " value="11" type="GuiResourceData"/>
+<property name="PAResourceAtoD.AddSrcWizard_SPECIFY_HDL_AND_NETLIST_FILES_OR_DIRECTORIES, Add or create design sources" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.AddSrcWizard_SPECIFY_SIMULATION_SPECIFIC_HDL_FILES, Add or create simulation sources" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.CmdMsgDialog_MESSAGES, [USF-XSim-62] 'compile' step failed with error(s" value="5" type="GuiResourceData"/>
+<property name="PAResourceAtoD.CmdMsgDialog_MESSAGES, [Vivado 12-4473] Detected error while running simulation. Please correct the issue and retry this operation., 1" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.CmdMsgDialog_OK, OK" value="2" type="GuiResourceData"/>
+<property name="PAResourceAtoD.CmdMsgDialog_OPEN_MESSAGES_VIEW, Open Messages View" value="4" type="GuiResourceData"/>
+<property name="PAResourceAtoD.CreateSrcFileDialog_FILE_NAME, FA" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.CreateSrcFileDialog_FILE_NAME, Full Adder" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.CreateSrcFileDialog_FILE_NAME, Full_Adder" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.CreateSrcFileDialog_FILE_NAME, HA" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.CreateSrcFileDialog_FILE_NAME, fulladder" value="1" type="GuiResourceData"/>
+<property name="PAResourceCommand.PACommandNames_ABOUT, About Vivado..." value="1" type="GuiResourceData"/>
+<property name="PAResourceCommand.PACommandNames_SIMULATION_RUN_BEHAVIORAL, Run Behavioral Simulation" value="9" type="GuiResourceData"/>
+<property name="PAResourceCommand.PACommandNames_SRC_DISABLE, Disable File" value="2" type="GuiResourceData"/>
+<property name="PAResourceCommand.PACommandNames_SRC_ENABLE, Enable File" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_0_CRITICAL_WARNING, 1 critical warning" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Constraints], 2" value="2" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Design Sources, Disabled Sources, Full Adder.v], 2, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Design Sources, Disabled Sources], 1, true" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Design Sources, Disabled Sources], 4" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Design Sources, Full_Adder (Full Adder.v" value="3" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Design Sources, HA (HA.v" value="4" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Design Sources, Syntax Error Files, Full Adder.v], 2, false" value="3" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Design Sources, Syntax Error Files, Full Adder.v], 2, false, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Design Sources, Syntax Error Files], 1, true" value="3" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Design Sources, Syntax Error Files], 1, true, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Design Sources, fulladder (fulladder.v" value="4" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Simulation Sources, sim_1, Disabled Sources, FA.v], 12, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Simulation Sources, sim_1, Disabled Sources, FA.v], 12, false, false, false, false, true, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Simulation Sources, sim_1, Disabled Sources, Full Adder.v], 11, false, false, false, false, true, false" value="2" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Simulation Sources, sim_1, Disabled Sources, Full Adder.v], 12, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Simulation Sources, sim_1, Disabled Sources, Full Adder.v], 13, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Simulation Sources, sim_1, Disabled Sources], 14" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Simulation Sources, sim_1, FA (FA.v" value="14" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Simulation Sources, sim_1, Full_Adder (Full Adder.v" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Simulation Sources, sim_1, Syntax Error Files, FA.v], 6, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Simulation Sources, sim_1, Syntax Error Files], 5" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Simulation Sources, sim_1, Syntax Error Files], 5, true" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Simulation Sources, sim_1], 4" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Simulation Sources], 3" value="3" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetView_EXPAND_ALL, Sources_expand_all" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FlowNavigatorTreePanel_FLOW_NAVIGATOR_TREE, [, Project Manager, Add Sources], 2, false" value="4" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FlowNavigatorTreePanel_FLOW_NAVIGATOR_TREE, [, RTL Analysis], 12, true" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FlowNavigatorTreePanel_FLOW_NAVIGATOR_TREE, [, Simulation, Run Simulation], 11, false" value="9" type="GuiResourceData"/>
+<property name="PAResourceEtoH.GettingStartedView_CREATE_NEW_PROJECT, Create New Project" value="1" type="GuiResourceData"/>
+<property name="PAResourceItoN.MainMenuMgr_DESIGN_HUBS, Design Hubs" value="1" type="GuiResourceData"/>
+<property name="PAResourceItoN.MainMenuMgr_HELP, Help" value="2" type="GuiResourceData"/>
+<property name="PAResourceItoN.MsgTreePanel_MESSAGE_VIEW_TREE, [, Analysis Results, sim_1, [HDL 9-806] Syntax error near endmodule. [C:/Users/031-17-0027/Documents/Digital System Design/Full_Adder/Full_Adder.srcs/sim_1/new/FA.v:42]. ], 2, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceItoN.MsgTreePanel_MESSAGE_VIEW_TREE, [, Vivado Commands, launch_simulation. , [USF-XSim 62] 'compile' step failed with error(s" value="1" type="GuiResourceData"/>
+<property name="PAResourceItoN.MsgTreePanel_MESSAGE_VIEW_TREE, [, Vivado Commands, launch_simulation. ], 1, true" value="2" type="GuiResourceData"/>
+<property name="PAResourceItoN.MsgTreePanel_MESSAGE_VIEW_TREE, [, Vivado Commands], 0, true" value="1" type="GuiResourceData"/>
+<property name="PAResourceOtoP.PAViews_CODE, Code" value="1" type="GuiResourceData"/>
+<property name="PAResourceOtoP.PartChooser_BOARDS, Boards" value="1" type="GuiResourceData"/>
+<property name="PAResourceOtoP.PartChooser_BOARDS, Nexys4 DDR ; digilentinc.com ; C.1 ; xc7a100tcsg324-1 ; 324 ; 1.1 ; 135 ; 240 ; 126800 ; 0 ; 0 ; 210 ; 63400 ; 6 ; 1 ; 85 ; 0 ; 85 ; C ; 1.05 ; 0.95 ; 0.95 ; 0, 0, Nexys4 DDR, 0" value="1" type="GuiResourceData"/>
+<property name="PAResourceOtoP.PartChooser_BOARD_DISPLAY_NAME_CHOOSER, Nexys4 DDR, 12" value="1" type="GuiResourceData"/>
+<property name="PAResourceOtoP.PartChooser_BOARD_VENDOR_CHOOSER, digilentinc.com, 1" value="1" type="GuiResourceData"/>
+<property name="PAResourceOtoP.ProjectNameChooser_CHOOSE_PROJECT_LOCATION, (String" value="2" type="GuiResourceData"/>
+<property name="PAResourceOtoP.ProjectNameChooser_PROJECT_NAME, Full_Adder" value="1" type="GuiResourceData"/>
+<property name="PAResourceQtoS.SrcChooserPanel_CREATE_FILE, Create File" value="5" type="GuiResourceData"/>
+<property name="PAResourceQtoS.SrcChooserTable_SRC_CHOOSER_TABLE, VerilogSourceFile_small ; 1 ; Full Adder.v ; xil_defaultlib ; Synthesis  Simulation ; Local to Project, 0, xil_defaultlib, 3" value="1" type="GuiResourceData"/>
+<property name="PAResourceQtoS.SrcChooserTable_SRC_CHOOSER_TABLE, xil_defaultlib, 0, Library, 3" value="1" type="GuiResourceData"/>
+<property name="RDIResource.BaseDialog_CANCEL, Cancel" value="1" type="GuiResourceData"/>
+<property name="RDIResource.BaseDialog_OK, OK" value="9" type="GuiResourceData"/>
+<property name="RDIResource.GraphicalView_ZOOM_FIT, Waveform Viewer_zoom_fit" value="3" type="GuiResourceData"/>
+<property name="RDIResource.GraphicalView_ZOOM_IN, Waveform Viewer_zoom_in" value="4" type="GuiResourceData"/>
+<property name="RDIResource.GraphicalView_ZOOM_OUT, Waveform Viewer_zoom_out" value="5" type="GuiResourceData"/>
+<property name="RDIResource.RDIViews_WAVEFORM_VIEWER, 507, 264" value="1" type="GuiResourceData"/>
+<property name="RDIResource.RDIViews_WAVEFORM_VIEWER, 641, 264" value="1" type="GuiResourceData"/>
+<property name="RDIResource.RDIViews_WAVEFORM_VIEWER, 648, 50" value="1" type="GuiResourceData"/>
+<property name="RDIResource.RDIViews_WAVEFORM_VIEWER, 653, 49" value="1" type="GuiResourceData"/>
+<property name="RDIResource.RDIViews_WAVEFORM_VIEWER, 656, 42" value="1" type="GuiResourceData"/>
+<property name="RDIResource.RDIViews_WAVEFORM_VIEWER, 696, 52" value="1" type="GuiResourceData"/>
+<property name="RDIResource.RDIViews_WAVEFORM_VIEWER, 84, 71" value="1" type="GuiResourceData"/>
+<property name="RDIResource.TclConsoleView_TCL_CONSOLE_CODE_EDITOR, 1159, 107" value="1" type="GuiResourceData"/>
+<property name="RDIResourceCommand.RDICommands_SAVE_FILE, (String" value="2" type="GuiResourceData"/>
+<property name="fulladder.v, 100, 409" value="1" type="GuiResourceData"/>
+<property name="fulladder.v, 106, 447" value="1" type="GuiResourceData"/>
+<property name="fulladder.v, 114, 433" value="1" type="GuiResourceData"/>
+<property name="fulladder.v, 121, 418" value="1" type="GuiResourceData"/>
+<property name="fulladder.v, 131, 385" value="1" type="GuiResourceData"/>
+<property name="fulladder.v, 175, 479" value="1" type="GuiResourceData"/>
+<property name="fulladder.v, 178, 463" value="1" type="GuiResourceData"/>
+<property name="fulladder.v, 189, 382" value="2" type="GuiResourceData"/>
+<property name="fulladder.v, 194, 379" value="1" type="GuiResourceData"/>
+<property name="fulladder.v, 213, 379" value="1" type="GuiResourceData"/>
+<property name="fulladder.v, 224, 381" value="1" type="GuiResourceData"/>
+<property name="fulladder.v, 227, 386" value="1" type="GuiResourceData"/>
+<property name="fulladder.v, 228, 391" value="1" type="GuiResourceData"/>
+<property name="fulladder.v, 240, 225" value="1" type="GuiResourceData"/>
+<property name="fulladder.v, 26, 412" value="1" type="GuiResourceData"/>
+<property name="fulladder.v, 51, 400" value="1" type="GuiResourceData"/>
+<property name="fulladder.v, 58, 470" value="1" type="GuiResourceData"/>
+<property name="fulladder.v, 61, 398" value="1" type="GuiResourceData"/>
+<property name="fulladder.v, 74, 435" value="1" type="GuiResourceData"/>
+<property name="fulladder.v, 82, 453" value="1" type="GuiResourceData"/>
+<property name="fulladder.v, 91, 402" value="1" type="GuiResourceData"/>
+<property name="fulladder.v, 93, 470" value="1" type="GuiResourceData"/>
+</item>
+<item name="Other">
+<property name="GuiMode" value="1" type="GuiMode"/>
+<property name="BatchMode" value="0" type="BatchMode"/>
+<property name="TclMode" value="0" type="TclMode"/>
+</item>
+</section>
+</application>
+</document>
